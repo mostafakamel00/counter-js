@@ -1,0 +1,29 @@
+.main {
+  .container {
+    .row {
+      .calc {
+        position: absolute;
+        top: 40%;
+        right: 0%;
+      }
+      h2 {
+        font-size: 50px;
+        color: #117344;
+        // color: #81d6cf;
+        font-weight: 400;
+        text-transform: capitalize;
+      }
+      p {
+        font-size: 40px;
+        font-weight: 500;
+        // color: #479771;
+        color: #81d6cf;
+      }
+      .btn-container {
+        .btn {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+}

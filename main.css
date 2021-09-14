@@ -1,0 +1,17 @@
+.main .container .row .calc {
+  position: absolute;
+  top: 40%;
+  right: 0%; }
+.main .container .row h2 {
+  font-size: 50px;
+  color: #117344;
+  font-weight: 400;
+  text-transform: capitalize; }
+.main .container .row p {
+  font-size: 40px;
+  font-weight: 500;
+  color: #81d6cf; }
+.main .container .row .btn-container .btn {
+  font-size: 20px; }
+
+/*# sourceMappingURL=main.css.map */
